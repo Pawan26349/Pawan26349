@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pawan26349
+- 👀 I’m interested in progamming languages like c++,python,html,css, etc.
+- 🌱 I’m currently learning c++ and data structures etc.
+- 💞️ I’m looking to collaborate with my college friends to work on a placement project.
+- 📫 How to reach me (You can reach me by my mail id : pawanyadavmngt806@gmail.com)
